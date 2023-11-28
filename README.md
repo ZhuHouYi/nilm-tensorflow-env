@@ -6,10 +6,9 @@ nilm tensorflow env for base algorithm (rewrite nilm for tensorflow 2.x ,not inc
 2.nilmtk和nilmtk-contrib库不适配tensorflow 2.x，所以在本地环境中使用tensorflow重写了nilmtk和nilmtk-contrib的一些数据预处理和深度学习计算的基准算法，用于本人的论文实验对比。
 
 # 环境硬件
-1.python 3.8
-2.RTX 4070
-3.cuda 11.8和cuda 11.2
-4.cudnn 8.9和cudnn 8.1
-
+* python 3.8
+* RTX 4070
+* cuda 11.8和cuda 11.2
+* cudnn 8.9和cudnn 8.1
 
 
